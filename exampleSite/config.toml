@@ -18,7 +18,7 @@ paginate = 3
   google_analytics_id = ""
   twitter_handle = "@ronbronson"
 
-  showAuthorOnHomepage = true
+  showAuthorOnHomepage = false
   showAuthorOnPosts = false
   showPostsOnHomepage = false
 
