@@ -1,6 +1,6 @@
 baseURL = "https://example.com"
 languageCode = "en-us"
-title = "Hugo Winston"
+title = "Ron Bronson"
 themesDir = "../.."
 theme = "hugo-winston-theme"
 
@@ -16,7 +16,7 @@ paginate = 3
 
 [params]
   google_analytics_id = ""
-  twitter_handle = "@zerostaticio"
+  twitter_handle = "@ronbronson"
 
   showAuthorOnHomepage = true
   showAuthorOnPosts = false
@@ -25,4 +25,4 @@ paginate = 3
   addFrame = true
   addDot = true
 
-  highlightColor = '#7b16ff'
+  highlightColor = '#F35B04'
