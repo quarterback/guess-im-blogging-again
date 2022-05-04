@@ -3,11 +3,14 @@ title: 'About'
 image: images/writer.jpeg
 menu:
   main:
-    name: "About"
+    name: "About Ron"
 ---
 
-## Contra vagos
+## About Ron
 
+Service designer. Digital transformation. Skeeball pro. Work. I lead cross-functional teams and work on impactful, people-focused design products. 
+
+<!-- 
 Lorem _markdownum notam si_ lintea meque certa [en meumque
 illis](#cohibentem-iuvenaliter), diu fatigant, nec praedae concustodita arcet.
 [Paviunt castris](#nemorisque-urimur-violentus) cur errat ventis causa! Silvas
@@ -22,9 +25,15 @@ utilis nympham, et certus amplexas Deiphobum palmis credas ambo, nec.
 virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
 licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
 quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+ancora. -->
 
-## Ducem oculos pallor tale quoque
+## My work
+
+My practice is primarily focused on information architecture and content strategy. I've spent close to two decades managing large-scale websites primarily within government, higher education, and non-profits. With roots in web development and deep experience with a bevy of content management systems, I am able to help organizations manage, launch and redesign their public (and internal-facing) web infrastructure.
+
+Beyond my work in web management, I'm passionate about service design. I speak globally at conferences talking about the ways designers can impact touchpoints. 
+
+I previously served on the Portland Historic Landmarks Commission 
 
 Pectora de Hebe veste mansit nemorisque oppugnare deos, interea eo calescit
 **invita insidiae** Amymonen, semper respiciens vocato, illis! Coruscis ut somno
